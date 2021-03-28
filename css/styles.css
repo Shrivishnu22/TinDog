@@ -2,11 +2,6 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 
-#title {
-    background-color: #ff4c68;
-    color: #fff;
-}
-
 .heading {
     font-family: 'Montserrat', sans-serif;
     font-size: 3.5rem;
@@ -23,8 +18,21 @@ h3 {
     font-family: "Montserrat" !important;
 }
 
+h3 {
+    font-size: 3.5rem;
+}
+
+i {
+    margin-right: 5px;
+}
+
 p {
     color: #8f8f8f;
+}
+
+#title {
+    background-color: #ff4c68;
+    color: #fff;
 }
 
 .container-xxl {
@@ -138,16 +146,8 @@ p {
     padding: 5% 10% 2%;
 }
 
-h3 {
-    font-size: 3.5rem;
-}
-
 #footer {
     background-color: #fff;
     padding: 1% 5% 1%;
     text-align: center;
-}
-
-i {
-    margin-right: 5px;
 }
